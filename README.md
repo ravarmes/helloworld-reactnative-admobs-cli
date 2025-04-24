@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React Native AdMob" src="https://github.com/ravarmes/helloworld-reactnative-admobs-cli/raw/main/assets/logo.png" />
+    <img alt="React Native AdMob" src="https://github.com/ravarmes/helloworld-reactnative-admobs-cli/blob/main/assets/logo.jpg" />
 </h1>
 
 <h3 align="center">
@@ -21,6 +21,7 @@
 <p align="center">
   <a href="#-abordagem">Abordagem</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalacao">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-configuracao">Configuração do AdMob</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licenca">Licença</a>
@@ -46,6 +47,10 @@ Ao contrário do Expo, que oferece uma experiência simplificada mas com limita�
 5. Execute o aplicativo: `npx react-native run-android`;
 
 > **Nota**: Após builds, a pasta `android/app/.cxx` pode crescer significativamente (150MB+). Esta pasta contém arquivos de compilação nativa que podem ser removidos com `rm -rf android/app/.cxx` para liberar espaço. Eles serão recriados automaticamente no próximo build.
+
+## :clapper: Tela(s) <a name="-telas"/></a>
+
+<img src="https://github.com/ravarmes/helloworld-reactnative-admobs-cli/blob/main/assets/tela1.png?raw=true" alt="Tela" width="30%"/>
 
 ## :bulb: Funcionalidades <a name="-funcionalidades"/></a>
 
