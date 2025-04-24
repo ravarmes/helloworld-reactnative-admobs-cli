@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="React Native AdMob" src="https://github.com/ravarmes/helloworld-reactnative-admobs-cli/raw/main/assets/logo.png" />
+    <img alt="React Native AdMob" src="https://github.com/ravarmes/helloworld-reactnative-admobs-cli/blob/main/assets/logo.png" />
 </h1>
 
 <h3 align="center">
